@@ -1,26 +1,23 @@
-### Hi Ymjie 👋
+### Hi there 👋
 
-<!--
-**Ymjie/Ymjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<table>
-    <tr>
-        <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=Ymjie&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
-        </td>
-        <td >
-            <center><img src="https://github-readme-stats.vercel.app/api?username=Ymjie&show_icons=true&hide_border=true&theme=highcontrast" ></center>
-        </td>
-    </tr>
-</table>
+![](https://komarev.com/ghpvc/?username=Ymjie)
+
+- 😄 I’m Yangmingjie
+- 📫 email：vshex@foxmail.com
+
+---
+
+<!-- 
+[![ZhangJC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ymjie)](https://brey.cn/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ymjie&layout=compact)]() -->
+
+<div>
+  <a href="https://brey.cn/">
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ymjie&layout=compact" />
+  </a>
+  <a href="https://brey.cn/">
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=Ymjie&show_icons=true&count_private=true" />
+  </a>
+</div>
