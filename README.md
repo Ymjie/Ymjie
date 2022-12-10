@@ -15,7 +15,7 @@
 
 <div>
   <a href="https://brey.cn/">
-    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ymjie&layout=compact" />
+    <img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ymjie&layout=compact&hide=javascript,html,css,stylus,scss,pug" />
   </a>
   <a href="https://brey.cn/">
     <img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=Ymjie&show_icons=true&count_private=true" />
